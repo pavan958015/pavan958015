@@ -1,11 +1,14 @@
-# 💫 About Me:
-🔭 Java Full Stack Developer passionate about Spring, Spring boot & other
-🎓 B.Tech CSE student at Galgotias University
-🌱 Learning Java Spring Boot,AWS & advanced backend architectures
-👀 Enthusiastic about SpringBoot and hackathons
-💞️ Thrive on collaborations, open-source projects, and solving real-world problems
-🎵 Fun fact: Play Games and Coding
-📧 Reach me at: pavansoni210129@gmail.com
+• 🔭 Java Full Stack Developer passionate about Spring, Spring Boot & more  
+• 🎓 B.Tech CSE Student at Galgotias University  
+• 🌱 Learning Java Spring Boot, AWS & advanced backend architectures  
+• 👀 Enthusiastic about Spring Boot and hackathons  
+• 💞️ Thrive on collaborations, open-source projects, and solving real-world problems  
+• 🎵 Fun fact: I love playing games and coding  
+• 🌐 Portfolio: https://pavan958015.github.io/Portfolio1/  
+• 📧 Reach me at: pavansoni210129@gmail.com
+
+
+
 
 
 ## 🌐 Socials:
