@@ -7,6 +7,9 @@
 • 🌐 Portfolio: https://pavan958015.github.io/Portfolio1/  
 • 📧 Reach me at: pavansoni210129@gmail.com
 
+![Profile Views](https://komarev.com/ghpvc/?username=rounakmishra06&base=0&color=brightgreen)
+![GitHub Followers](https://img.shields.io/github/followers/rounakmishra06?label=Followers)
+
 
 
 
