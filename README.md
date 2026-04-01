@@ -1,5 +1,5 @@
-• 🔭 Java Full Stack Developer passionate about Spring, Spring Boot & more  
 • 🎓 B.Tech CSE Student at Galgotias University  
+• 🔭 Java Full Stack Developer passionate about Spring, Spring Boot & more  
 • 🌱 Learning Java Spring Boot, AWS & advanced backend architectures  
 • 👀 Enthusiastic about Spring Boot and hackathons  
 • 💞️ Thrive on collaborations, open-source projects, and solving real-world problems  
